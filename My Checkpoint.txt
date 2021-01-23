@@ -1,0 +1,9 @@
+How does the web works?
+The web browser connects to the web server and sends an HTTP request for the desired web page. 
+The web server receives the request and checks for the desired page. 
+If the page exists the web server sends it. 
+
+What do you need to be a web developer?
+You must need html/css skills.
+What’s the role of a web developer?
+Web developers typically construct the layout of a website
